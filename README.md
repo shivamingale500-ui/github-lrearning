@@ -1,2 +1,2 @@
-# github-lrearning
+# github-learning
 github learning session
